@@ -1,0 +1,16 @@
+# Ignore the dataset
+Data/
+
+# Ignore Python environments
+.venv/
+venv/
+
+# Ignore Jupyter temporary files
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore secrets
+.env
